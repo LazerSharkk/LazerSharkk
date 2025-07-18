@@ -27,4 +27,4 @@
 ![ArchLinux](https://img.shields.io/badge/archlinux-darkred?style=for-the-badge&logo=archlinux&logoColor=white)
 
 #
-[![Hits](https://hits.sh/github.com/LazerSharkk.svg?style=for-the-badge&label=Profile%20Views&color=000000&labelColor=4c8ecf&logo=accenture)](https://hits.sh/github.com/LazerSharkk/)
+[![Hits](https://hits.sh/github.com/LazerSharkk.svg?style=for-the-badge&label=Profile%20Views&color=000000&labelColor=4c8ecf&logo=accenture)]
