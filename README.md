@@ -27,4 +27,5 @@
 ![ArchLinux](https://img.shields.io/badge/archlinux-darkred?style=for-the-badge&logo=archlinux&logoColor=white)
 
 #
+[![GitHub Streak](https://streak-stats.demolab.com?user=LazerSharkk&background=45%2C000000%2C000000&stroke=FF0000&sideNums=FF5B5B&sideLabels=EB5454&ring=EB5454&fire=EB5454&currStreakNum=FF0000&dates=18FFE9B2&currStreakLabel=00EBAA&border=EB5454)](https://git.io/streak-stats)\
 ![Hits](https://hits.sh/github.com/LazerSharkk.svg?style=for-the-badge&label=Profile%20Views&color=000000&labelColor=4c8ecf&logo=accenture)
